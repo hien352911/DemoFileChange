@@ -9,4 +9,5 @@ target 'DemoFileChange' do
 
 pod 'Alamofire', '4.8.1'
 pod 'Kingfisher', '5.4.0'
+pod 'Device', '3.1.0'
 end
