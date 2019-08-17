@@ -1,0 +1,6 @@
+framework module Pods_DemoFileChange {
+  umbrella header "Pods-DemoFileChange-umbrella.h"
+
+  export *
+  module * { export * }
+}
